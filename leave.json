@@ -1,0 +1,10 @@
+{"employees":[
+    {"full_name":"Page Cabrera","id":"121","lf":"11/2/2022","lt":"15/2/2022","llt":"sick leave","status":"approved"},
+    {"full_name":"Macdonald Rosales","id":"142","lf":"29/1/2022","lt":"01/2/2022","llt":"sick leave","status":"approved"},
+    {"full_name":"Cash Marsh","id":"201","lf":"11/2/2022","lt":"13/2/2022","llt":"casual leave","status":"pending"},
+    {"full_name":"Ofelia Cooley","id":"854","lf":"28/2/2022","lt":"6/3/2022","llt":"casual leave","status":"rejected"},
+    {"full_name":"Erma Chase","id":"112","lf":"11/2/2022","lt":"15/5/2022","llt":"maternity leave","status":"approved"},
+    {"full_name":"Maryanne Mullins","id":"214","lf":"11/2/2022","lt":"15/2/2022","llt":"sick leave","status":"approved"}
+  
+    
+]}
